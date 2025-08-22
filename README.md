@@ -41,6 +41,7 @@ This repo is being updated **after each assignment**. Check back regularly for p
 ## 📸 Preview
 
 <img width="375" height="1085" alt="Product detail pg" src="https://github.com/user-attachments/assets/e3ab1244-6748-48a5-a2cd-7ffd14965e1f" />
+
 <img width="375" height="900" alt="Product Listing pg" src="https://github.com/user-attachments/assets/6e4a4116-5fe8-4db7-8bd1-631f128d2e18" />
 
 ---
@@ -48,7 +49,11 @@ This repo is being updated **after each assignment**. Check back regularly for p
 ## 🔗 Figma File
 👉 [View in Figma](https://www.figma.com/design/74zhLxTP1BU2f446xhlyTJ/Fashion-app?node-id=0-1&t=j9gmCxOgeoTsKKRu-1)
 
+## 🔗 TypeForm
+👉 [View in TypeForm](https://form.typeform.com/to/wvu2nQfm)
 
+## 🔗 Google Sheet | Exported Responses
+👉 [View in GoogleSheet](https://docs.google.com/spreadsheets/d/1Q1_0B6SL1T9tbP9UJItstAxvO0zpvWBOmvbjTcWyvfU/edit?usp=sharing)
 
 ---
 
