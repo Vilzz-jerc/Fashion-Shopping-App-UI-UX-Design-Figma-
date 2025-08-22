@@ -40,7 +40,7 @@ This repo is being updated **after each assignment**. Check back regularly for p
 
 ## 📸 Preview
 
-<img width="375" height="1085" alt="Product detail pg" src="https://github.com/user-attachments/assets/e3ab1244-6748-48a5-a2cd-7ffd14965e1f" />
+<img width="375" height="900" alt="Product Listing pg" src="https://github.com/user-attachments/assets/6604c243-7774-48cb-8532-bcc8880d906c" />
 
 ---
 
