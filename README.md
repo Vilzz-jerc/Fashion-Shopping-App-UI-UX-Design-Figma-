@@ -39,10 +39,9 @@ This repo is being updated **after each assignment**. Check back regularly for p
 ---
 
 ## 📸 Preview
-(Add screenshots of your main UI screens here for quick visual reference)
 
-![Product Listing Page](Final-Designs/listing-page.png)
-![Product Detail Page](Final-Designs/detail-page.png)
+<img width="375" height="1085" alt="Product detail pg" src="https://github.com/user-attachments/assets/e3ab1244-6748-48a5-a2cd-7ffd14965e1f" />
+<img width="375" height="900" alt="Product Listing pg" src="https://github.com/user-attachments/assets/6e4a4116-5fe8-4db7-8bd1-631f128d2e18" />
 
 ---
 
